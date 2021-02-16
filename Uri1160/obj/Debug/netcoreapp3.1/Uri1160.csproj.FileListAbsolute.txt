@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.exe
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.deps.json
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.runtimeconfig.json
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.dll
+C:\Users\rubem\source\repos\Uri1160\Uri1160\bin\Debug\netcoreapp3.1\Uri1160.pdb
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.dll
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.pdb
+C:\Users\rubem\source\repos\Uri1160\Uri1160\obj\Debug\netcoreapp3.1\Uri1160.genruntimeconfig.cache
